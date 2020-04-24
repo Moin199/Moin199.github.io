@@ -1,17 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to Moin's homepage
 
-You can use the [editor on GitHub](https://github.com/Moin199/Moin199.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+View this section for exciting project updates
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### About Myself
+I am Software Developer in Tata Consultancy Services.I mainly work on ETL tool,Infromatica.I develop Workflows,Mappings to implement business requirement on huge data-sets.A Data Science enthusiast, i have been doing various courses related to Data Science & Machine learning.Hence, I have exposure to Python language and packages used for Data Science.Currently,looking for entry level Data science positions which would augment my data science skill-sets by solving real world problems.
+A quick learner,I have up-skilled my tech stack to learn various modern technologies like Angular 8,Spring,Tableau,Keras,etc.Regularly, I take part in online data science competitions organized by Kaggle,the data science community. 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
 ## Header 2
 ### Header 3
 
